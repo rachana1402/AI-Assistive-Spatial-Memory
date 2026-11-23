@@ -179,10 +179,7 @@ Voice Recognition → Navigation Guidance → TTS Output
 ## 📖 Documentation
 
 - 📘 [`INSTALLATION_GUIDE.md`](INSTALLATION_GUIDE.md) - Complete setup instructions
-- 📗 [`SPATIAL_MEMORY_DOCUMENTATION.md`](SPATIAL_MEMORY_DOCUMENTATION.md) - Memory system details
-- 📙 [`FPS_METRICS_FORMULAS.md`](FPS_METRICS_FORMULAS.md) - Performance calculations
-- 📕 [`OBJECT_STORAGE_EXPLAINED.md`](OBJECT_STORAGE_EXPLAINED.md) - Data structures
-- 📔 [`ACTUAL_METRICS_EVALUATED.md`](ACTUAL_METRICS_EVALUATED.md) - Evaluation results
+
 
 ---
 
