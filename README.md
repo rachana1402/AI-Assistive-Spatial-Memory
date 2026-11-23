@@ -265,9 +265,6 @@ Always use with:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Dependencies:**
 - YOLOv8: AGPL-3.0 License
@@ -285,13 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
-
-- **GitHub Issues:** [Report bugs or request features](https://github.com/YourUsername/AI-Assistive-System/issues)
-- **Email:** your.email@example.com
-- **Research Paper:** [Link to paper when published]
-
----
 
 ## 🗺️ Roadmap
 
@@ -312,13 +302,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📊 Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/AI-Assistive-System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YourUsername/AI-Assistive-System?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YourUsername/AI-Assistive-System?style=social)
-
----
 
 **Made with ❤️ for accessibility and inclusion**
 
